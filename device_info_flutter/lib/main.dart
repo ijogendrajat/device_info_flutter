@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'dart:io';
+
 import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
+
 import 'package:device_info_plus/device_info_plus.dart';
 
 void main() {
